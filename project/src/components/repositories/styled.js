@@ -17,7 +17,7 @@ export const WrapperTabs = styled(Tabs)`
 
     export const WrapperTab = styled(Tab)`
     border-radius: 16px;
-    border: 1px solid ;
+    border: 1px solid black;
     color: #455054;    
     font-weight: bold;
     background-color: #D4CFC9;

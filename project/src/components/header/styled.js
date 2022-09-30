@@ -12,7 +12,6 @@ export const Image = styled.div`
 
 export const Wrapper = styled.div`
     display: flex;
-    margin: 20px 0;
     width: auto;
     justify-content: space-between;
 
@@ -24,7 +23,7 @@ export const Wrapper = styled.div`
         padding: 8px;
         font-weight: 500;
         background-color: #D4CFC9;
-        margin: 0 15px;
+        margin: 15px;
     }
 
     button {
@@ -33,6 +32,8 @@ export const Wrapper = styled.div`
         background-color: #D4CFC9;
         padding: 8px 16px;
         margin: 0 15px;
+        height: 50%;
+        align-self: center;
 
         &:hover {
         box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.2);
