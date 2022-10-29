@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Wrapper = styled.div`
     display: flex;
     align-content: space-between;
-    background-color: #D4CFC9;
+    background-color: #AED9E0;
     border: 1px solid ;
     border-radius: 20px;
     margin: 15px;
@@ -20,7 +20,7 @@ export const Wrapper = styled.div`
     h1 {
         font-size: 28px;
         font-weight: bold;
-        color: #455054;
+        color: #AED9E0;
     }
 
     h3 {

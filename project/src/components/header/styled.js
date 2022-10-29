@@ -6,7 +6,7 @@ export const Image = styled.div`
     display: flex;
     justify-content: space-around;
     padding: 7px;
-    background-color: #fff;
+    background-color: #5E6472;
 `
 
 
@@ -22,14 +22,14 @@ export const Wrapper = styled.div`
         height: 44px;
         padding: 8px;
         font-weight: 500;
-        background-color: #D4CFC9;
+        background-color: #AED9E0;
         margin: 15px;
     }
 
     button {
         border: 1px solid black;
         border-radius: 8px;
-        background-color: #D4CFC9;
+        background-color: #AED9E0;
         padding: 8px 16px;
         margin: 0 15px;
         height: 50%;

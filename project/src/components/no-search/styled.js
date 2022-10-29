@@ -8,6 +8,6 @@ export const Wrapper = styled.div`
         margin: 100px 0;
         font-weight: bold;
         font-size: 28px;        
-        color: #455054;
+        color: #AED9E0;
     }
 `;

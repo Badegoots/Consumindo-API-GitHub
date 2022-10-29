@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
     margin: 16px 16px;
     width: 350px;
     height: 150px;
-    background-color: #D4CFC9
+    background-color: #AED9E0
     `;
 
     export const WrapperTitle = styled.h2`

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import * as S from "./styled";
 import useGithub from "../../hooks/github-hooks";
-import Img from "../../images/git.jpg";
+import Img from "../../images/GitHub.jpg";
 
 
 const Header = () => {

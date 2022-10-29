@@ -20,7 +20,7 @@ export const WrapperTabs = styled(Tabs)`
     border: 1px solid black;
     color: #455054;    
     font-weight: bold;
-    background-color: #D4CFC9;
+    background-color: #AED9E0;
     padding: 16px;
     user-select: none;
     cursor: pointer;
