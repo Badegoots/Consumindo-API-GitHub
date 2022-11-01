@@ -9,5 +9,6 @@ export const Wrapper = styled.div`
         font-weight: bold;
         font-size: 28px;        
         color: #AED9E0;
+        
     }
 `;

@@ -14,6 +14,7 @@ export const Wrapper = styled.div`
     display: flex;
     width: auto;
     justify-content: space-between;
+    background-color: #5E6472;
 
     input {
         border: 1px solid black;

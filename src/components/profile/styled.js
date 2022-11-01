@@ -16,6 +16,7 @@ export const Wrapper = styled.div`
     justify-content: space-between;
     margin: 8px;
     height: auto;
+    
 
     h1 {
         font-size: 28px;
